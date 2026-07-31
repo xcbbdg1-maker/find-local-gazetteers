@@ -1,0 +1,4 @@
+interface:
+  display_name: "县志查找"
+  short_description: "按地区与历史沿革查找可读、可下载或可馆藏获取的地方志"
+  default_prompt: "使用 $find-local-gazetteers 查找一个地区的历代县志，并给出可阅读、可下载或可馆藏获取的可靠来源。"
